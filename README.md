@@ -1,3 +1,7 @@
+##Date:Jan 13th, Friday, 2017
+
+Today, I created this Github page for my Data Science portfolio. Wanna keep track of every progress I make from now on.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/appleausten/appleausten.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
