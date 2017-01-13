@@ -1,7 +1,7 @@
 ---
 ---
 
-import "{{ site.theme }}";
+@import "{{ site.theme }}";
 red {
     color: #FF0000;
     }
